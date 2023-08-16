@@ -1,1 +1,1 @@
-# r.github.io
+# rithi.github.io
