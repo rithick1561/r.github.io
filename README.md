@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>BIODATA</title>
+<title> BIODATA </title>
 </head>
 <body> <font color="black"><font size=30>Biodata</font>
 <hr>
