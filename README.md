@@ -61,5 +61,22 @@ Gender:Male<br>
    </tr>
 </table>
 </ul>
+<h3>TECHNICAL SKILLS</h3>
+<ul><li>C</li>
+<li>C++</li>
+<li>HTML</li>  
+<li>Python</li></ul>
+<h3>SOFT SKILLS</h3>
+<ul><li>Problem Solving</li>
+<li>Active Listening</li>
+<li>Time Management</li></ul>
+<h3>LANGUAGES KNOWN </h3>
+<ul><li>English(R/W/S)</li>
+<li>English(R/W/S)</li> </ul>
+<h3>CERTIFICATIONS</h3>
+<ul>
+<li>Certified in C++ course (by KGiSL) at 2020</li>
+<li>Certified in HTML course (by KGiSL) at 2019</li>  
+<li>Certified in Photoshop (byKGiSL) at 2019</li>
 </body>
 </html>
