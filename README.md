@@ -31,7 +31,7 @@ Gender:Male<br>
     <th>course</th>
     <th>School/College</th>
     <th>percentage</th>
-<th>Year</th
+<th>Year</th>
   </tr>
  
   <tr>
@@ -51,8 +51,7 @@ Gender:Male<br>
     <td>Vidhaa Vikas Matric Higher Secondary School</td>
     <td>65</td>
    <td>2018-2019</td>
-
-  </tr>
+ </tr>
   <tr>
     <td>SSLC</td>
     <td>Shri Mahaa Higher Secondary</td>
